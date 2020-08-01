@@ -1,6 +1,7 @@
 ### Hey,Hey,Hey, I'm Madhav!👋
-### Open Source enthusiast
-## I'm a Developer and undergrad in CS!
+
+## I'm a Developer , undergrad in CS and Open Source enthusiast!
+
 - 🔭 I’m currently working on my skills !
 - 🌱 I’m currently learning everything 🤣 (python & ML to be specific)
 - 👯 I’m looking to collaborate with other Developers
