@@ -1,12 +1,12 @@
 ### Hey,Hey,Hey, I'm Madhav!👋
 
-## I'm a Developer , undergrad in CS and Open Source enthusiast!
+## I'm a Developer , undergrad in CS and a forever learner!
 
 - 🔭 Beginner!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning backend-development 
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I also like competetive programming 
+- 🥅 2022 Goals: Start contributing to Open Source projects + Learn new Technologies
+- ⚡ Fun fact: I also like to travel
 
 ### Connect with me:
 
